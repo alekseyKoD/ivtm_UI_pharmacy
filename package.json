@@ -1,0 +1,24 @@
+{
+  "name": "ivtm_ui_pharmacy",
+  "version": "1.0.0",
+  "description": "курс. работа по дисциплине \"Проектирование UI\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekseyKoD/ivtm_UI_pharmacy.git"
+  },
+  "keywords": [
+    "UI",
+    "React",
+    "MaterialUI"
+  ],
+  "author": "Aleksey Denisiuk aka KoD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekseyKoD/ivtm_UI_pharmacy/issues"
+  },
+  "homepage": "https://github.com/alekseyKoD/ivtm_UI_pharmacy#readme"
+}
