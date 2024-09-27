@@ -15,7 +15,10 @@ return (<div className="App">
   <Routes>
 <Route path="/" element={<Home />} />
 <Route path="/products" element={<Products />} />
-<Route path="/about" element={<About />} />
+        <Route path="/about" element={<About />} />
+
+
+        // some comment
 </Routes>
 <Footer />
 </div>
